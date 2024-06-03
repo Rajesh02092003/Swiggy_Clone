@@ -1,2 +1,2 @@
 # Swiggy_Clone
-Swiggy clone using HTML
+Swiggy clone using HTML and css
